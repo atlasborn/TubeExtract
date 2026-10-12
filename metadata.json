@@ -1,0 +1,6 @@
+{
+  "name": "YouTube MP3 & MP4 Playlist Downloader",
+  "description": "Baixe vídeos e playlists completas do YouTube em MP3 (320kbps) ou MP4 (1080p) com seleção individual de faixas, fila de downloads e exportação em ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
